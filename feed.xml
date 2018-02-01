@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>HKTest Store</title>
+        <link>http://www.example.com</link>
+        <description>An example item from the feed</description>
+
+        <item>
+            <g:id>DB_1</g:id>
+            <g:title>10x6x8 in red denim pattern1 new kids male retailer1 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_1"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_1"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_1"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in marine blue color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-1.html</g:link>
+            <g:image_link>
+                http://mankindunplugged.com/wp-content/uploads/2015/04/Visvim-Skagway-Denim-Suede-Sneakers-3.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>denim</g:material>
+            <g:pattern>pattern1</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender></g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_2</g:id>
+            <g:title>11x6x8 in blue leather pattern2 new kids female retailer2 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                https://cdnb.lystit.com/1200/630/tr/photos/c47c-2015/10/05/calvin-klein-indigo-ward-leather-sneakers-blue-product-0-774974638-normal.jpeg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>11x6x8 in</g:size>
+            <g:color>blue</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern2</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>female</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_3</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult unisex retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>unisex</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_4</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult unisex retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>unisex</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_5</g:id>
+            <g:title>10x6x8 in red denim pattern1 new kids male retailer1 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_1"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_1"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_1"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in marine blue color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-1.html</g:link>
+            <g:image_link>
+                http://mankindunplugged.com/wp-content/uploads/2015/04/Visvim-Skagway-Denim-Suede-Sneakers-3.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>denim</g:material>
+            <g:pattern>pattern1</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender></g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_6</g:id>
+            <g:title>11x6x8 in blue leather pattern2 new kids female retailer2 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                https://cdnb.lystit.com/1200/630/tr/photos/c47c-2015/10/05/calvin-klein-indigo-ward-leather-sneakers-blue-product-0-774974638-normal.jpeg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>11x6x8 in</g:size>
+            <g:color>blue</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern2</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>female</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_7</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult unisex retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>unisex</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_8</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult unisex retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_1</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>unisex</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_9</g:id>
+            <g:title>10x6x8 in red denim pattern1 new kids male retailer1 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_1"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_1"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_1"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in marine blue color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-1.html</g:link>
+            <g:image_link>
+                http://mankindunplugged.com/wp-content/uploads/2015/04/Visvim-Skagway-Denim-Suede-Sneakers-3.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>denim</g:material>
+            <g:pattern>pattern1</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_10</g:id>
+            <g:title>11x6x8 in blue leather pattern2 new kids male retailer2 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                https://cdnb.lystit.com/1200/630/tr/photos/c47c-2015/10/05/calvin-klein-indigo-ward-leather-sneakers-blue-product-0-774974638-normal.jpeg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>11x6x8 in</g:size>
+            <g:color>blue</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern2</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_11</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult male retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_12</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult male retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_13</g:id>
+            <g:title>10x6x8 in red denim pattern1 new kids male retailer1 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_1"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_1"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_1"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in marine blue color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-1.html</g:link>
+            <g:image_link>
+                http://mankindunplugged.com/wp-content/uploads/2015/04/Visvim-Skagway-Denim-Suede-Sneakers-3.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>denim</g:material>
+            <g:pattern>pattern1</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_14</g:id>
+            <g:title>11x6x8 in blue leather pattern2 new kids male retailer2 9.99 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                https://cdnb.lystit.com/1200/630/tr/photos/c47c-2015/10/05/calvin-klein-indigo-ward-leather-sneakers-blue-product-0-774974638-normal.jpeg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>11x6x8 in</g:size>
+            <g:color>blue</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern2</g:pattern>
+            <g:condition>new</g:condition>
+            <g:age_group>kids</g:age_group>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_15</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult male retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>male</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+        <item>
+            <g:id>DB_16</g:id>
+            <g:title>10x6x8 in red leather pattern3 used adult unisex retailer3 9.95 USD</g:title>
+            <applink property="ios_url" content="example-ios://electronic/db_2"/>
+            <applink property="ios_app_store_id" content="123"/>
+            <applink property="ios_app_name" content="Electronic Example iOS"/>
+            <applink property="android_url" content="example-android://electronic/db_2"/>
+            <applink property="android_package" content="com.electronic.example"/>
+            <applink property="android_app_name" content="Electronic Example Android"/>
+            <applink property="windows_phone_url" content="example-windows://electronic/db_2"/>
+            <applink property="windows_phone_app_id" content="64ec0d1b-5b3b-4c77-a86b-5e12d465edc0"/>
+            <applink property="windows_phone_app_name" content="Electronic Example Windows"/>
+            <g:description>Solid plastic Dog Bowl in yellow color</g:description>
+            <g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+            <g:product_type>Bowls &amp; Dining &gt; Food &amp; Water Bowls</g:product_type>
+            <g:link>http://www.example.com/bowls/db-2.html</g:link>
+            <g:image_link>
+                http://www.upscalehype.com/wp-content/uploads/2013/09/Saint-Laurent-Red-Leather-Sneakers-UpscaleHype-2-470x308.jpg
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>30.99 USD</g:price>
+            <g:brand>Example</g:brand>
+            <g:item_group_id>DB_GROUP_2</g:item_group_id>
+            <g:shipping>
+                <g:country>UA</g:country>
+                <g:region>VI</g:region>
+                <g:price>0.0</g:price>
+            </g:shipping>
+            <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:size>10x6x8 in</g:size>
+            <g:color>red</g:color>
+            <g:material>leather</g:material>
+            <g:pattern>pattern3</g:pattern>
+            <g:condition>used</g:condition>
+            <g:gender>unisex</g:gender>
+            <g:sale_price>15.99 USD</g:sale_price>
+            <g:sale_price_effective_date>2017-08-01T12:00-0300/2017-12-01T00:00</g:sale_price_effective_date>
+        </item>
+
+    </channel>
+</rss>

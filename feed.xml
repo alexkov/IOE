@@ -34,6 +34,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>10%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>denim</g:material>
@@ -74,6 +75,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>15%</g:custom_label_1>
             <g:size>11x6x8 in</g:size>
             <g:color>blue</g:color>
             <g:material>leather</g:material>
@@ -114,6 +116,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>20%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -153,6 +156,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>25%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -192,6 +196,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>30%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>denim</g:material>
@@ -232,6 +237,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>35%</g:custom_label_1>
             <g:size>11x6x8 in</g:size>
             <g:color>blue</g:color>
             <g:material>leather</g:material>
@@ -272,6 +278,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>40%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -311,6 +318,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>45%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -350,6 +358,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>50%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>denim</g:material>
@@ -390,6 +399,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>55%</g:custom_label_1>
             <g:size>11x6x8 in</g:size>
             <g:color>blue</g:color>
             <g:material>leather</g:material>
@@ -430,6 +440,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>60%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -469,6 +480,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>65%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -508,6 +520,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>70%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>denim</g:material>
@@ -548,6 +561,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>75%</g:custom_label_1>
             <g:size>11x6x8 in</g:size>
             <g:color>blue</g:color>
             <g:material>leather</g:material>
@@ -588,6 +602,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>80%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
@@ -627,6 +642,7 @@
                 <g:price>0.0</g:price>
             </g:shipping>
             <g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+            <g:custom_label_1>85%</g:custom_label_1>
             <g:size>10x6x8 in</g:size>
             <g:color>red</g:color>
             <g:material>leather</g:material>
